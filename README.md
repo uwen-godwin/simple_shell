@@ -3,15 +3,6 @@
 
 	0x16. C - Simple Shell
 
-<a name="Concepts"></a>
-# Concepts
-
-	For this project, we expect you to look at these concepts:
-- [Everything you need to know to start coding your own shell](https://intranet.alxswe.com/concepts/64)
-- [Approaching a Project](https://intranet.alxswe.com/concepts/350)
-- [All about Team Projects + Pairings + FAQ (A must read)](https://intranet.alxswe.com/concepts/100037)
-- [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
-
 <a name="Background Context"></a>
 # Background Context
 
@@ -33,7 +24,6 @@
 	I would like to take this moment to remind you about a few important things.
 
 First, remember the framework. If you do not know it by heart already, it is probably a good idea to read it again:
-[https://intranet.alxswe.com/concepts/559](https://intranet.alxswe.com/concepts/559)
 
 Note that there is no point in this framework that says it is ok to look at code from other people. It is not allowed to look at other people’s code, either other students or online articles or videos. At ALX SE we do not copy solutions and we do not look at it when we start a project.
 
@@ -51,8 +41,6 @@ In the context of learning (some of these will no longer be true when you work):
 
 	
 	The reality is that at this point of the program, if you have not cheated before, you have everything you need to complete the project with what you have learned + the page “Everything you need to know to start coding your own shell”
-[https://intranet.alxswe.com/concepts/64](https://intranet.alxswe.com/concepts/64)
-
 	
 	Actually, you do not even need to open Google once. Focus on your whiteboarding, and everything will fall in place. Remember, at ALX SE you never learn the solution, you learn how to walk toward the solution. You learn to create the tutorial, so if you follow one, you are looking at the solution, you are taking a very serious shortcut that will undermine your learning.
 
@@ -69,8 +57,7 @@ In the context of learning (some of these will no longer be true when you work):
 	A group project at ALX SE is a project that both of you are responsible for. Everything anyone pushes to Github is the responsibility of both partners. It is not ok to say later “I didn’t cheat it’s my partner I didn’t know they didn’t tell me”.
 
 	
-	So you are supposed to work TOGETHER. And you should both understand every single line of code that any of you pushes. Here is a link for you to read about pair programming: 
-[https://intranet.alxswe.com/concepts/121](https://intranet.alxswe.com/concepts/121)
+	So you are supposed to work TOGETHER. And you should both understand every single line of code that any of you pushes. Here is a link for you to read about pair programming:
 
 	
 	If you plan on not working on the shell project (or if at any point in time you can’t), it is your responsibility to tell both the staff and your partner so that they can find another partner who will work with them asap.
