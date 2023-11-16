@@ -376,6 +376,5 @@ Simple shell 1.0 +
 
 
 ## Authors
-- **Julien Barbier** - [Github Profile](https://github.com/jbarbier)
 - **Uwen, Godwin** - [Github Profile](https://github.com/uwen-godwin)
 - **Okorafor Goodnews** - [Github Profile](https://github.com/Codackblue)
