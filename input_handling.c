@@ -49,7 +49,7 @@ ssize_t custom_get_input(info_t *info)
     static char *buffer;
     static size_t i, j, length;
     ssize_t bytes_read = 0;
-    char **buffer_ptr = &(info->arg);
+    char **buffer_ptr = (info->cmd_buf);
     char *current_position;
 
     custom_putchar(BUF_FLUSH);
@@ -80,7 +80,7 @@ ssize_t custom_get_input(info_t *info)
         if (i >= length)
 	{
             i = length = 0;
-            info->cmd_buf_type = CMD_NORM;
+            /*info->cmd_buf_type = CMD_NORM;*/
         }
         *buffer_ptr = current_position;
         return custom_strlen(current_position);
